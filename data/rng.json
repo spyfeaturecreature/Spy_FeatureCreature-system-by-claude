@@ -1,5 +1,5 @@
 {
-  "why_owner_id": null,
+  "why_owner_id": "1501774034097012806",
   "inventory": {
     "1501774034097012806": {
       "common": 0,
@@ -7,7 +7,7 @@
       "rare": 1,
       "legendary": 0,
       "mythic": 0,
-      "why": 0
+      "why": 1
     }
   }
 }
