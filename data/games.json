@@ -1,0 +1,32 @@
+{
+  "slap_battles": {
+    "name": "Slap Battles",
+    "universeId": 2626610457,
+    "icon": "🥊",
+    "color": 15158332
+  },
+  "blox_fruits": {
+    "name": "Blox Fruits",
+    "universeId": 2753915549,
+    "icon": "🍎",
+    "color": 15965202
+  },
+  "king_legacy": {
+    "name": "King Legacy",
+    "universeId": 3214797309,
+    "icon": "👑",
+    "color": 10181046
+  },
+  "you_vs_homer": {
+    "name": "You vs Homer",
+    "universeId": null,
+    "icon": "🎮",
+    "color": 3447003
+  },
+  "spy_admin_game": {
+    "name": "spy admin game",
+    "universeId": 10093642300,
+    "icon": "🤝",
+    "color": 3447003
+  }
+}
