@@ -64,6 +64,14 @@
       "legendary": 0,
       "mythic": 0,
       "why": 1
+    },
+    "1100132559851098163": {
+      "common": 0,
+      "not_common": 0,
+      "rare": 1,
+      "legendary": 0,
+      "mythic": 0,
+      "why": 0
     }
   }
 }
