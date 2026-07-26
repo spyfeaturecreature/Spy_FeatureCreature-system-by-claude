@@ -68,10 +68,10 @@
     "1100132559851098163": {
       "common": 1,
       "not_common": 1,
-      "rare": 2,
+      "rare": 3,
       "legendary": 0,
       "mythic": 0,
-      "why": 1
+      "why": 0
     }
   }
 }
