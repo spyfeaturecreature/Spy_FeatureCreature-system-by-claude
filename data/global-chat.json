@@ -62,5 +62,20 @@
       "bannedBy": "1530247423862116496",
       "bannedAt": "2026-09-16T17:29:03.863Z"
     }
+  ],
+  "logs": [
+    {
+      "id": "1549896567580795012",
+      "status": "relayed",
+      "blockedReason": null,
+      "content": "Hello",
+      "authorId": "1496273489718415512",
+      "authorName": "𝔊𝔯𝔬𝔲𝔫𝔡_𝔟𝔬𝔲",
+      "serverId": "1532910552433692772",
+      "serverName": "𝔄𝔩𝔰𝔬𝔪𝔢&𝔠𝔬𝔬𝔩 𝔟𝔲𝔱 𝔯𝔞𝔫𝔡𝔬𝔪𝔩𝔶 𝔠𝔯𝔞𝔷𝔶 𝔰𝔢𝔯𝔳𝔢𝔯",
+      "channelId": "1544481349711298620",
+      "timestamp": "2026-09-16T21:35:37.397Z",
+      "attachments": []
+    }
   ]
 }
