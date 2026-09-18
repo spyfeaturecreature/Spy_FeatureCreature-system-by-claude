@@ -63,6 +63,7 @@
       "bannedAt": "2026-09-16T17:29:03.863Z"
     }
   ],
+  "allowedBots": [],
   "logs": [
     {
       "id": "1549896567580795012",
@@ -75,6 +76,19 @@
       "serverName": "𝔄𝔩𝔰𝔬𝔪𝔢&𝔠𝔬𝔬𝔩 𝔟𝔲𝔱 𝔯𝔞𝔫𝔡𝔬𝔪𝔩𝔶 𝔠𝔯𝔞𝔷𝔶 𝔰𝔢𝔯𝔳𝔢𝔯",
       "channelId": "1544481349711298620",
       "timestamp": "2026-09-16T21:35:37.397Z",
+      "attachments": []
+    },
+    {
+      "id": "1550567352892923975",
+      "status": "relayed",
+      "blockedReason": null,
+      "content": "hi and test",
+      "authorId": "1526006391347609621",
+      "authorName": "Spy_feature :3",
+      "serverId": "1441921680111964315",
+      "serverName": "silly cats :3",
+      "channelId": "1544473064241365023",
+      "timestamp": "2026-09-18T18:01:05.078Z",
       "attachments": []
     }
   ]
